@@ -1,0 +1,5 @@
+image_processing.exe
+execution.log
+data/output/
+__pycache__/
+*.pyc
